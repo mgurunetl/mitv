@@ -9,8 +9,8 @@ https://vidcdn.vidgyor.com/saraljeevan-origin/liveabr/playlist.m3u8
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8
 #EXTINF:0, group-title="News",AyushTV
 http://8noro432dm6g-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-#EXTINF:0, group-title="News",AyushTV
-http://8noro432dm6g-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:0, group-title="News",TV9Youtube
+https://youtu.be/wfDSivif3FI
 #EXTINF:0, group-title="News",NEWS18_Kannada
 https://etv-kannada-news.akamaized.net/i/etv_kannada_news_liv_1@372918/index_5_av-p.m3u8
 #EXTINF:0, group-title="News",NewsX_Kannada
