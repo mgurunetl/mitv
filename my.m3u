@@ -1,13 +1,25 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CvQCnwZ.png" group-title="INFO",* Fluxus IPTV
+#EXTINF:0, group-title="News",Public TV
 https://vidcdn.vidgyor.com/publictv-origin/live/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free IPTV
+#EXTINF:-0, group-title="News",DighvijayaNews
 https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/dighvijay-origin/live1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Mar.06.2018
+#EXTINF:-0, group-title="News",SaralaJeevana
+https://vidcdn.vidgyor.com/saraljeevan-origin/liveabr/playlist.m3u8
+#EXTINF:0, group-title="News",SuvarnaNews
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8
+#EXTINF:0, group-title="News",AyushTV
 http://8noro432dm6g-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
-https://youtu.be/wfDSivif3FI
+#EXTINF:0, group-title="News",AyushTV
+http://8noro432dm6g-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:0, group-title="News",NEWS18_Kannada
+https://etv-kannada-news.akamaized.net/i/etv_kannada_news_liv_1@372918/index_5_av-p.m3u8
+#EXTINF:0, group-title="News",NewsX_Kannada
+https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:newsxkannada_all/chunklist_w1845214206_b1628000.m3u8
+#EXTINF:0, group-title="News",ETV_Kannada
+https://etv-kannada-news.akamaized.net/i/etv_kannada_news_liv_1@372918/index_1_av-p.m3u8
+#EXTINF:0, group-title="News",V4_News_Kannada
+rtmp://studiosystem.co.in/v4news//livestream
+#EXTINF:0, group-title="News",TV9_News_Kannada
+http://367449830.r.cdnsun.net/367449830/_definst_/newstv9/chunklist_w914356063.m3u8
+#EXTINF:0, group-title="News",AsiaNet
+http://asianethd-i.akamaihd.net/hls/live/569828/asianethd/master_2000.m3u8
