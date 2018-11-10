@@ -21,5 +21,5 @@ https://etv-kannada-news.akamaized.net/i/etv_kannada_news_liv_1@372918/index_1_a
 rtmp://studiosystem.co.in/v4news//livestream
 #EXTINF:0, group-title="News",TV9_News_Kannada
 http://367449830.r.cdnsun.net/367449830/_definst_/newstv9/chunklist_w914356063.m3u8
-#EXTINF:0, group-title="News",AsiaNet
-http://asianethd-i.akamaihd.net/hls/live/569828/asianethd/master_2000.m3u8
+#EXTINF:0, group-title="News",Movie
+https://youtu.be/4Pybl8dNM7M
