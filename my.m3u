@@ -3,6 +3,8 @@
 https://vidcdn.vidgyor.com/publictv-origin/live/chunks.m3u8
 #EXTINF:-0, group-title="News",DighvijayaNews
 https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/dighvijay-origin/live1/chunks.m3u8
+#EXTINF:-0, group-title="News",Janam TV Malayalam
+http://live.wmncdn.net/janamtv2/live.com/index.m3u8
 #EXTINF:-0, group-title="News",SaralaJeevana
 https://vidcdn.vidgyor.com/saraljeevan-origin/liveabr/playlist.m3u8
 #EXTINF:0, group-title="News",SuvarnaNews
