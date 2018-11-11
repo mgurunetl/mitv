@@ -25,6 +25,8 @@ rtmp://studiosystem.co.in/v4news//livestream
 https://www.youtube.com/watch?v=BOjJGALm2kQ&list=RDBOjJGALm2kQ&start_radio=1&t=116
 #EXTINF:0, group-title="News",Harikathe
 https://youtu.be/N0q6vwyogUI?list=PLQegbZ6wT6OtpzF4Z1flvO59MihAh_xeb
+#EXTINF:0, group-title="News",Kannada Movies
+https://www.youtube.com/watch?v=f4Osuw_NwwU&list=PLwmN8VAMtH6N5yEkdVz9_zok-1dfIq8NJ
 #EXTINF:0, group-title="News",Zee Kannada
 http://z5ams.akamaized.net/zkannada/tracks-v1a1/index.m3u8 
 #EXTINF:0, group-title="News",Star Plus
