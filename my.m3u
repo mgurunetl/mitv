@@ -21,17 +21,89 @@ https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:newsxkannada_all/chunklist_w184521
 https://etv-kannada-news.akamaized.net/i/etv_kannada_news_liv_1@372918/index_1_av-p.m3u8
 #EXTINF:0, group-title="News",V4_News_Kannada
 rtmp://studiosystem.co.in/v4news//livestream
-#EXTINF:0, group-title="News",TV9_News_Kannada
-http://367449830.r.cdnsun.net/367449830/_definst_/newstv9/chunklist_w914356063.m3u8
-#EXTINF:0, group-title="News",Movie
-https://youtu.be/4Pybl8dNM7M
 #EXTINF:0, group-title="News",BhaktiGeethe
 https://www.youtube.com/watch?v=BOjJGALm2kQ&list=RDBOjJGALm2kQ&start_radio=1&t=116
-#EXTINF:0, group-title="News",Colors Youtube
-https://www.youtube.com/user/etvkannadaindia
-#EXTINF:0, group-title="News",ZeeKannada Youtube
-https://www.youtube.com/user/zeekannada
-#EXTINF:0, group-title="News",TTD Darshan
-https://www.youtube.com/channel/UCCMssNwo9Q28W-mfgvvNiFA
 #EXTINF:0, group-title="News",Harikathe
 https://youtu.be/N0q6vwyogUI?list=PLQegbZ6wT6OtpzF4Z1flvO59MihAh_xeb
+#EXTINF:0, group-title="News",Zee Kannada
+http://z5ams.akamaized.net/zkannada/tracks-v1a1/index.m3u8 
+
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll B4U Movies" tvg-logo="", ll www.iptv-m3u-playlist.com ll B4U Movies
+http://rb-group-server.com:25461/hhh/hhh/3998
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll B4U Plus" tvg-logo="", ll www.iptv-m3u-playlist.com ll B4U Plus
+http://rb-group-server.com:25461/hhh/hhh/4003
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll B4U Music" tvg-logo="", ll www.iptv-m3u-playlist.com ll B4U Music
+http://rb-group-server.com:25461/hhh/hhh/3970
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Starz TV" tvg-logo="", ll www.iptv-m3u-playlist.com ll Starz TV
+http://rb-group-server.com:25461/hhh/hhh/4876
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Star Plus" tvg-logo="", ll www.iptv-m3u-playlist.com ll Star Plus
+http://rb-group-server.com:25461/hhh/hhh/3978
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Star Gold HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Star Gold HD
+http://rb-group-server.com:25461/hhh/hhh/8684
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Star Jalsha" tvg-logo="", ll www.iptv-m3u-playlist.com ll Star Jalsha
+http://rb-group-server.com:25461/hhh/hhh/8685
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Star Vijay" tvg-logo="", ll www.iptv-m3u-playlist.com ll Star Vijay
+http://rb-group-server.com:25461/hhh/hhh/3975
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Sony" tvg-logo="", ll www.iptv-m3u-playlist.com ll Sony
+http://rb-group-server.com:25461/hhh/hhh/4794
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Sony Max" tvg-logo="", ll www.iptv-m3u-playlist.com ll Sony Max
+http://rb-group-server.com:25461/hhh/hhh/4795
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Sony Movie" tvg-logo="", ll www.iptv-m3u-playlist.com ll Sony Movie
+http://rb-group-server.com:25461/hhh/hhh/4792
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Zee Talkies" tvg-logo="", ll www.iptv-m3u-playlist.com ll Zee Talkies
+http://rb-group-server.com:25461/hhh/hhh/3986
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Zee Marathi HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Zee Marathi HD
+http://rb-group-server.com:25461/hhh/hhh/3972
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Zee Bollywood HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Zee Bollywood HD
+http://rb-group-server.com:25461/hhh/hhh/4005
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Zee Punjabi" tvg-logo="", ll www.iptv-m3u-playlist.com ll Zee Punjabi
+http://rb-group-server.com:25461/hhh/hhh/3996
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Zee Cinema HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Zee Cinema HD
+http://rb-group-server.com:25461/hhh/hhh/4004
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Zee Action" tvg-logo="", ll www.iptv-m3u-playlist.com ll Zee Action
+http://rb-group-server.com:25461/hhh/hhh/3984
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Zee tv" tvg-logo="", ll www.iptv-m3u-playlist.com ll Zee tv
+http://rb-group-server.com:25461/hhh/hhh/3973
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Zee Etc" tvg-logo="", ll www.iptv-m3u-playlist.com ll Zee Etc
+http://rb-group-server.com:25461/hhh/hhh/4001
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Zee Classic" tvg-logo="", ll www.iptv-m3u-playlist.com ll Zee Classic
+http://rb-group-server.com:25461/hhh/hhh/3974
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Zee Business" tvg-logo="", ll www.iptv-m3u-playlist.com ll Zee Business
+http://rb-group-server.com:25461/hhh/hhh/3997
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Zee Telugu" tvg-logo="", ll www.iptv-m3u-playlist.com ll Zee Telugu
+http://rb-group-server.com:25461/hhh/hhh/4006
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Zing TV" tvg-logo="", ll www.iptv-m3u-playlist.com ll Zing TV
+http://rb-group-server.com:25461/hhh/hhh/4008
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Asianet" tvg-logo="", ll www.iptv-m3u-playlist.com ll Asianet
+http://rb-group-server.com:25461/hhh/hhh/8674
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Asianet News" tvg-logo="", ll www.iptv-m3u-playlist.com ll Asianet News
+http://rb-group-server.com:25461/hhh/hhh/8676
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Asianet Movies" tvg-logo="", ll www.iptv-m3u-playlist.com ll Asianet Movies
+http://rb-group-server.com:25461/hhh/hhh/8675
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Banglavision" tvg-logo="", ll www.iptv-m3u-playlist.com ll Banglavision
+http://rb-group-server.com:25461/hhh/hhh/8680
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll TV9 Gujarati" tvg-logo="", ll www.iptv-m3u-playlist.com ll TV9 Gujarati
+http://rb-group-server.com:25461/hhh/hhh/3995
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll UTV Movies International" tvg-logo="", ll www.iptv-m3u-playlist.com ll UTV Movies International
+http://rb-group-server.com:25461/hhh/hhh/3988
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll 9XM" tvg-logo="", ll www.iptv-m3u-playlist.com ll 9XM
+http://rb-group-server.com:25461/hhh/hhh/8670
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll 9X Tasha" tvg-logo="", ll www.iptv-m3u-playlist.com ll 9X Tasha
+http://rb-group-server.com:25461/hhh/hhh/8672
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Akash Bangla" tvg-logo="", ll www.iptv-m3u-playlist.com ll Akash Bangla
+http://rb-group-server.com:25461/hhh/hhh/8673
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll ATN Bangla" tvg-logo="", ll www.iptv-m3u-playlist.com ll ATN Bangla
+http://rb-group-server.com:25461/hhh/hhh/8678
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll &Picture HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll &Picture HD
+http://rb-group-server.com:25461/hhh/hhh/8671
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Jaya Max" tvg-logo="", ll www.iptv-m3u-playlist.com ll Jaya Max
+http://rb-group-server.com:25461/hhh/hhh/8682
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Jaya Plus" tvg-logo="", ll www.iptv-m3u-playlist.com ll Jaya Plus
+http://rb-group-server.com:25461/hhh/hhh/8683
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll CBN Cricket" tvg-logo="", ll www.iptv-m3u-playlist.com ll CBN Cricket
+http://rb-group-server.com:25461/hhh/hhh/8681
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Star Sport 1 HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Star Sport 1 HD
+http://rb-group-server.com:25461/hhh/hhh/3976
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Star Sport2 HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Star Sport2 HD
+http://rb-group-server.com:25461/hhh/hhh/3982
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Star Sport4 HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Star Sport4 HD
