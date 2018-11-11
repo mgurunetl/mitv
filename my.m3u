@@ -4,11 +4,11 @@ https://vidcdn.vidgyor.com/publictv-origin/live/chunks.m3u8
 #EXTINF:-0, group-title="News",DighvijayaNews
 https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/dighvijay-origin/live1/chunks.m3u8
 #EXTINF:-0, group-title="News",Janam TV Malayalam
-http://live.wmncdn.net/janamtv2/live.com/index.m3u8
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live1/chunks.m3u8
 #EXTINF:-0, group-title="News",SaralaJeevana
 https://vidcdn.vidgyor.com/saraljeevan-origin/liveabr/playlist.m3u8
 #EXTINF:0, group-title="News",SuvarnaNews
-https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8
+https://youtu.be/ixZz4GTWeDs
 #EXTINF:0, group-title="News",AyushTV
 http://8noro432dm6g-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:0, group-title="News",TV9Youtube
@@ -27,6 +27,11 @@ http://367449830.r.cdnsun.net/367449830/_definst_/newstv9/chunklist_w914356063.m
 https://youtu.be/4Pybl8dNM7M
 #EXTINF:0, group-title="News",BhaktiGeethe
 https://www.youtube.com/watch?v=BOjJGALm2kQ&list=RDBOjJGALm2kQ&start_radio=1&t=116
-#EXTINF:0, group-title="News",Yakshagana
-https://www.youtube.com/watch?v=y4C6yQgq-bU&list=PLeXVrxYmmbuNTnYh3wO0-2sIN7Ysn6c09
-
+#EXTINF:0, group-title="News",Colors Youtube
+https://www.youtube.com/user/etvkannadaindia
+#EXTINF:0, group-title="News",ZeeKannada Youtube
+https://www.youtube.com/user/zeekannada
+#EXTINF:0, group-title="News",TTD Darshan
+https://www.youtube.com/channel/UCCMssNwo9Q28W-mfgvvNiFA
+#EXTINF:0, group-title="News",Harikathe
+https://youtu.be/N0q6vwyogUI?list=PLQegbZ6wT6OtpzF4Z1flvO59MihAh_xeb
