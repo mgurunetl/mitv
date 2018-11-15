@@ -8,7 +8,7 @@ https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live1/chunks.m3
 #EXTINF:-0, group-title="News",SaralaJeevana
 https://vidcdn.vidgyor.com/saraljeevan-origin/liveabr/playlist.m3u8
 #EXTINF:0, group-title="News",SuvarnaNews
-https://youtu.be/ixZz4GTWeDs
+https://www.youtube.com/watch?v=ixZz4GTWeDs
 #EXTINF:0, group-title="News",AyushTV
 http://8noro432dm6g-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:0, group-title="News",TV9Youtube
@@ -25,29 +25,17 @@ rtmp://studiosystem.co.in/v4news//livestream
 https://www.youtube.com/watch?v=BOjJGALm2kQ&list=RDBOjJGALm2kQ&start_radio=1&t=116
 #EXTINF:0, group-title="News",Harikathe
 https://youtu.be/N0q6vwyogUI?list=PLQegbZ6wT6OtpzF4Z1flvO59MihAh_xeb
-#EXTINF:0, group-title="News",Zee Kannada
-http://z5ams.akamaized.net/zkannada/tracks-v1a1/index.m3u8 
-#EXTINF:0, group-title="News",Star Plus
-http://rb-group-server.com:25461/hhh/hhh/3978
-#EXTINF:0, group-title="News",Star Gold HD
-http://rb-group-server.com:25461/hhh/hhh/8684
-#EXTINF:0, group-title="News",Sony
-http://rb-group-server.com:25461/hhh/hhh/4794
-#EXTINF:0, group-title="News",Sony Max
-http://rb-group-server.com:25461/hhh/hhh/4795
-#EXTINF:0, group-title="News",Zee Cinema HD
-http://rb-group-server.com:25461/hhh/hhh/4004
-#EXTINF:0, group-title="News",Zee tv
-http://rb-group-server.com:25461/hhh/hhh/3973
-#EXTINF:0, group-title="News",Asianet
-http://rb-group-server.com:25461/hhh/hhh/8674
-#EXTINF:0, group-title="News",Asianet News
-http://rb-group-server.com:25461/hhh/hhh/8676
-#EXTINF:0, group-title="News",Asianet Movies
-http://rb-group-server.com:25461/hhh/hhh/8675
-#EXTINF:0, group-title="News",Star Sport 1 HD
-http://rb-group-server.com:25461/hhh/hhh/3976
-#EXTINF:0, group-title="News",Star Sport2 HD
-http://rb-group-server.com:25461/hhh/hhh/3982
-#EXTINF:0, group-title="News",Star Sport4 HD
-http://rb-group-server.com:25461/hhh/hhh/3979
+#EXTINF:0, group-title="News",Kishore Kumar Hits
+https://57a1bb14d0f06.streamlock.net/live/kishore_webA.sdp/playlist.m3u8?token=8828829388
+#EXTINF:0, group-title="News",VidhyaBhushan Devotional
+https://www.youtube.com/watch?v=4HYSRiE4ZCY&list=PLmR3B55sVtYTV7g1SKXoivE24dgKtLBHF
+#EXTINF:0, group-title="News",Yesudas Devotional
+https://www.youtube.com/watch?v=JzeoD4WDA_w
+#EXTINF:0, group-title="News",SPB Devotional
+https://www.youtube.com/watch?v=8ts9ivpeEKM
+#EXTINF:0, group-title="News",Manorama malayalam
+https://57a1bb14d0f06.streamlock.net/live/mazman_webA.sdp/chunklist_w268657482.m3u8?token=8828829388
+#EXTINF:0, group-title="News",Bhagavadgita
+https://www.youtube.com/watch?v=gah3M_XW1XE&t=125s
+#EXTINF:0, group-title="News",TTDC Kannada
+https://www.youtube.com/watch?v=hGHLCKyKnOE&list=PL-VeqaHu3_djfVtOrdMxDsXvpBgc4PnN7
