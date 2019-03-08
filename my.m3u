@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0, group-title="News",Public TV
-https://vidcdn.vidgyor.com/publictv-origin/live/chunks.m3u8
+https://www.youtube.com/watch?v=YB9doohfJlI
 #EXTINF:-0, group-title="News",DighvijayaNews
 https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/dighvijay-origin/live1/chunks.m3u8
 #EXTINF:-0, group-title="News",Janam TV Malayalam
@@ -13,6 +13,8 @@ https://www.youtube.com/watch?v=ixZz4GTWeDs
 http://8noro432dm6g-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:0, group-title="News",TV9Youtube
 https://youtu.be/wfDSivif3FI
+#EXTINF:0, group-title="News",TV5Youtube
+https://www.youtube.com/watch?v=y2UGZW9VZBM
 #EXTINF:0, group-title="News",NEWS18_Kannada
 https://etv-kannada-news.akamaized.net/i/etv_kannada_news_liv_1@372918/index_5_av-p.m3u8
 #EXTINF:0, group-title="News",NewsX_Kannada
@@ -23,6 +25,8 @@ https://etv-kannada-news.akamaized.net/i/etv_kannada_news_liv_1@372918/index_1_a
 rtmp://studiosystem.co.in/v4news//livestream
 #EXTINF:0, group-title="News",BhaktiGeethe
 https://www.youtube.com/watch?v=BOjJGALm2kQ&list=RDBOjJGALm2kQ&start_radio=1&t=116
+#EXTINF:0, group-title="News",BhaktiGeete
+https://www.youtube.com/watch?v=M8ehpat2TaA
 #EXTINF:0, group-title="News",Harikathe
 https://youtu.be/N0q6vwyogUI?list=PLQegbZ6wT6OtpzF4Z1flvO59MihAh_xeb
 #EXTINF:0, group-title="News",Kishore Kumar Hits
@@ -39,3 +43,10 @@ https://57a1bb14d0f06.streamlock.net/live/mazman_webA.sdp/chunklist_w268657482.m
 https://youtu.be/gah3M_XW1XE?t=1
 #EXTINF:0, group-title="News",TTDC Kannada
 https://www.youtube.com/watch?v=hGHLCKyKnOE&list=PL-VeqaHu3_djfVtOrdMxDsXvpBgc4PnN7
+#EXTINF:0, group-title="News",SVTB Kannada
+https://www.youtube.com/watch?v=1pH0SB4Itvc
+#EXTINF:0, group-title="News",Yoga Ramdev
+https://www.youtube.com/user/vkskmrgpt
+
+
+
