@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0, group-title="News",Public TV
 https://www.youtube.com/watch?v=YB9doohfJlI
+#EXTINF:0, group-title="News",Digvijaya Youtube
+https://www.youtube.com/channel/UCU_Dzyqehuz3pVbZrOqOT3A
 #EXTINF:-0, group-title="News",DighvijayaNews
 https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/dighvijay-origin/live1/chunks.m3u8
 #EXTINF:-0, group-title="News",Janam TV Malayalam
@@ -49,5 +51,9 @@ https://www.youtube.com/watch?v=1pH0SB4Itvc
 https://www.youtube.com/watch?v=ET-K74au8v0&list=PLUpkve4ZZMbt2gL9lDzdiunUXUBL_v_OT
 #EXTINF:0, group-title="News",Bharath Swabhiman
 https://www.youtube.com/channel/UC7yXqCuQubuNBfUVOZ-xFPA
-
-
+#EXTINF:0, group-title="News",Colors Kannada
+https://www.youtube.com/user/etvkannadaindia
+#EXTINF:0, group-title="News",Zee Kannada
+https://www.youtube.com/user/zeekannada
+#EXTINF:0, group-title="News",Udaya Kannada
+https://www.youtube.com/user/udayatvkannada
